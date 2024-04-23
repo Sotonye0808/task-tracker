@@ -21,7 +21,7 @@ This is a simple task tracker app built using React. It allows users to track th
 1. Run npm start to start the development server.
 1. Open your browser and navigate to http://localhost:3000 to view the app.
 
-##Technologies Used
+## Technologies Used
 * React
 * JavaScript
 * HTML/CSS

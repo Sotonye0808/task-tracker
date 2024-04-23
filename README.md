@@ -1,6 +1,7 @@
 # Track Your Tasks 
 
 **This is a very crude version of this application. Unusual behaviour may be observed and design is rather lazy. A much updated version is to be released soon!**
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## [Task Tracker](https://sotonye0808.github.io/task-tracker)
@@ -25,7 +26,6 @@ This is a simple task tracker app built using React. It allows users to track th
 * React
 * JavaScript
 * HTML/CSS
-* Credits
 
 ---
 

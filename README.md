@@ -1,12 +1,12 @@
 # Track Your Tasks 
 
-**This is a very crude version of this application. Unusual behaviour may be observed and design is rather lazy. A much updated version is to be released soon!**
+**This is a very crude version of this application. Unusual behaviour may be observed and design is rather lazy. Check out the [updated version](https://task-tracker-2.vercel.app)!**
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## [Task Tracker](https://sotonye0808.github.io/task-tracker)
 
-This is a simple task tracker app built using React. It allows users to track their tasks by adding, deleting, and marking tasks as complete.
+This is a simple task tracker app built using React. It allows users to track their tasks by adding, deleting, and marking tasks as complete. (it doesn't really do any of that, this is more of just frontend)
 
 ## Features
 - Add new tasks: Users can add tasks by entering a task name and optionally specifying a day and time.
